@@ -1,0 +1,20 @@
+#start-game {
+  margin: 30px;
+  padding: 10px;
+  text-align: center;
+  border: 5px solid red;
+  border-radius: 10px;
+  font-size: 5rem;
+}
+
+#rules-of-game {
+  text-align: center;
+  list-style-type: none;
+  align-items: center;
+}
+
+#rules-of-game ul {
+  text-align: center;
+  list-style-type: none;
+  align-items: center;
+}
